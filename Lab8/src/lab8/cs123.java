@@ -1,5 +1,3 @@
-package lab8;
-
 public class cs123 {
 
 	public static void main(String[] args) {
